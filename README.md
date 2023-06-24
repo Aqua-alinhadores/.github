@@ -1,4 +1,4 @@
-![logo aqua](logo-4.png)
+![logo aqua](https://aquaa.vercel.app/images/logo-4.png)
 
 
 ## 💧 Projeto oficial da Aqua Alinhadores! 💧
