@@ -9,5 +9,5 @@ Alguns links importantes:
 </p>
 
 <p align="center">
-  ![logo aqua](https://aquaa.vercel.app/images/logo-4.png)
+  ![logo aqua](logo-4.png)
 </p>
